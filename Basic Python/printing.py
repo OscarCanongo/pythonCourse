@@ -1,3 +1,4 @@
+#Canción Lgn Sht
 song = """
 {Verso 1: Lng/SHT}
 A los trece tomé una decisión inesperada
